@@ -1,7 +1,7 @@
 {
   "version": "11.2",
-  "build": "198",
-  "url": "https://github.com/6gffzsyc89-stack/ccsync-plus-releases/releases/download/v11.2-b198/CCSync-plus_v11.2_2026-10-09_b198.zip",
-  "sha256": "d1047a034899c932ffd4666404853cee011cf4d7f2937d18a917fb8826eaccbf",
-  "notes": "CCSync+ v11.2 (build 198)"
+  "build": "203",
+  "url": "https://github.com/6gffzsyc89-stack/ccsync-plus-releases/releases/download/v11.2-b203/CCSync-plus_v11.2_2026-10-30_b203.zip",
+  "sha256": "5bced38a9bd750c308b4e90f977a0e292cc10339e5d221d8a918e9980d02a39e",
+  "notes": "CCSync+ v11.2 (build 203)"
 }
